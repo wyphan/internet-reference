@@ -108,7 +108,7 @@ pron      | pr0n, pr0nz     | Yes        | "Pornography"
 pwned     | pwn             | Rare       | "Powned"; like "owned"
 REEEEEEEE |                 | Yes        | Onomatopoeia; very angry
 rekt      |                 | Yes        | "Wrecked"; like "owned"
-rickroll  |                 | Yes        | Common prank involving Rick Astley
+rickroll  |                 | Yes        | Common prank involving Rick Astley's "Never Gonna Give You Up"
 rip       |                 | Yes        | Laughter in response to failure
 rly       |                 | Yes        | "Really"
 rms       |                 | Rare       | [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
@@ -119,6 +119,7 @@ rude      | rood            | Yes        | Response to insult/taunt
 shank     |                 | Yes        | Stab
 smd       |                 | Yes        | "Suck my dick"
 smh       |                 | Yes        | "Shake my head"
+soy       | soyboy          | Yes        | Derogatory term for young male
 soz       | sry             | Yes        | "Sorry"
 swag      | swagger         | Yes        | Coolness (sarcastic)
 tbf       |                 | Yes        | "To be fair"
@@ -138,13 +139,17 @@ ty        |                 | Yes        | "Thank you"
 uwotm8    |                 | Yes        | "You what mate?!"
 w00t      | woot            | No         | Exclamation of joy
 wb        |                 | Yes        | "Welcome back"
+wkwkwk    |                 | yes        | Laughter (Indonesian slang)
 wot       | wat             | Yes        | "What"; meant to sound stupid
 wtb       |                 | Yes        | "Want-to-buy"; looking to buy
 wtf       |                 | Yes        | "What the fuck"
 wtg       | w2g             | Rare       | "Way to go"; sarcastic
+wth       |                 | Yes        | "What the hell"
 wts       |                 | Yes        | "Want-to-sell"; looking to sell
+WWJD      |                 | Rare       | "What would Jesus do?"
 wuu2      |                 | Rare       | "What [are] you up to?"
 yarly     |                 | Yes        | "Yeah, really"
+yeet      |                 | Yes        | To throw
 ymmv      |                 | Yes        | "Your mileage may vary"
 yolo      | yoloswag        | Yes        | "You only live once"
 yw        |                 | Yes        | "You're welcome"
@@ -155,6 +160,7 @@ Slang     | Variations      | Meaning
 :---------|:----------------|:-------
 dump      |                 | Sell, often in panic
 hodl      |                 | "Hold!" (as opposed to "sell")
+merge     | Ethereum 2.0    | Ethereum's transition from proof-of-work to proof-of-stake
 moon      |                 | Where the value of cryptocurrency is headed
 pump      |                 | Buy, often to deliberately inflate price
 pumpdump  |                 | What whales do
@@ -168,14 +174,19 @@ whale     |                 | Rich person
 
 ID   | Currency       | Notes
 :--- |:-------------- |:-----
+ADA  | Cardano        |
 BTC  | Bitcoin        | The original cryptocurrency
 BCH  | Bitcoin Cash   | Userbase is largely Chinese
+BNB  | Binance Coin   | Token for Binance exchange
 BTG  | Bitcoin Gold   |
 DOGE | Dogecoin       | Early joke altcoin
 ETH  | Ethereum       | Popular
 LTC  | Litecoin       | The original altcoin
 USDT | Tether: USD    |
+USDC | USD Coin       |
+UST  | TerraUSD       | Crashed completely in May 2022
 XBT  | Bitcoin        | Less common than BTC
+XLM  | Stellar Lumens |
 XRP  | Ripple         |
 
 
